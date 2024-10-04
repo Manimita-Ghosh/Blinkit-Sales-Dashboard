@@ -1,7 +1,7 @@
 🔑 Key Features:
 - Refresh Button♻: Clears all applied slicers to reset the view.
 - More Info Button❕: Quick access to all project-related files.
-- Filter Panel✂: Allows users to filter data based on their preferences.
+- Filter Panel: Allows users to filter data based on their preferences.
 
 📊 Dashboard Insights:
 The dashboard provides detailed insights on:
